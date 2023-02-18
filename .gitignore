@@ -1,0 +1,6 @@
+# file: ~/.gitignore_global
+.idea
+passthrough.c
+passthrough-internal.h
+passthrough-internal.c
+test.cpp
